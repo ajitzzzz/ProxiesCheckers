@@ -16,7 +16,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
 
 # ========= CONFIGURATION - CHANGE THESE =========
-BOT_TOKEN = "7851076883:AAF1FddTnMhaD6I6La82_uAkEaw66tXoxT8"
+BOT_TOKEN = "7851076883:AAFTgTd9ycUiuBZFYDthRx1IBjqCHeHtZCc"
 ADMIN_ID = 8332683304
 
 # ========= DO NOT CHANGE ANYTHING BELOW THIS LINE =========
@@ -27,7 +27,7 @@ print("🔥 PROXY KING BOT STARTED 🔥")
 print("="*50)
 print(f"🤖 Bot Token: {BOT_TOKEN[:15]}...")
 print(f"👑 Admin ID: {ADMIN_ID}")
-print(f"📱 Bot Username: @Imottski")
+print(f"📱 Bot Username: @ProxyCheckerSpecial_bot")
 print("="*50)
 
 class ProxyKing:
